@@ -111,7 +111,7 @@
       if (typeof fbq === 'function') {
         fbq('track', 'InitiateCheckout', {
           content_name: 'Kit Dia dos Namorados Perfeito',
-          value: 19.90,
+          value: 29.90,
           currency: 'BRL'
         });
       }
