@@ -476,9 +476,12 @@ svg { display: inline-block; }
   position: relative;
   display: inline-block;
   background: var(--paper);
-  padding: 0 14px;
-  color: var(--red);
-  font-size: 1.4rem;
+  padding: 0 18px;
+  color: var(--ink);
+  font-size: 1rem;
+  font-weight: 700;
+  opacity: 0.3;
+  letter-spacing: 0.4em;
 }
 
 /* ---------- Grid + Cards ---------- */
